@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/bjoernhoeferum/azuretest01/master/tesfile01"],
+  "commandToExecute": "sh testfile01"
+}
